@@ -1,7 +1,4 @@
 # dataMisc
-R data package, Miscellaneous small datasets
-
-### Asymptotics for the maximum sample likelihood estimator under informative selection from a finite population
 
 `dataMisc` is an [R](http://www.r-project.org) package that contains misceallenous datasets.
 
